@@ -1,0 +1,35 @@
+body{
+  background-color: teal;
+}
+div{
+  width: 90%;
+  margin-left: 5%;
+  text-align: center;
+  height: 400px;
+}
+
+button{
+  padding: 10px;
+  width: 20%;
+  right: 40%;
+  top: 5%;
+  position: absolute;
+  border: none;
+  color: #ddd;
+  background-color: deepskyblue;
+  border-radius: 20px;
+  font-size: 2em;
+  font-family: arial;
+}
+
+button:hover{
+  background-color: gainsboro;
+  color: #000;
+}
+
+img{
+  margin-top: 15%;
+  margin-left: 0%;
+  width: 30%;
+  height: auto;
+}
